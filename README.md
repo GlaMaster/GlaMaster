@@ -4,7 +4,7 @@
 En este proyecto se ha realizado un análisis exploratorio en Google Sheets, con el objetivo de detectar los principales problemas del control de los Inventarios, que nos permitan tomar acciones para incrementar las ventas en una tienda de abarrotes minorista.
 # Estructura:
 Archivos: 
-  1.	Google Sheet: Proyecto de Dashboard:
+  1.	Google Sheet: Proyecto de Dashboard: https://docs.google.com/spreadsheets/d/1DwO9Y91CyILWxMQFLaVMqiAdE2zxKGA4ZoyGAKrdRWE/edit?usp=sharing
      
         -Grocery_Inventory new v1: Datos brutos.
     	
